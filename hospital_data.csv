@@ -1,0 +1,101 @@
+case_id,Hospital_code,Hospital_type_code,City_Code_Hospital,Hospital_region_code,Available_EXTRA_Room,Department,Ward_Type,Ward_Facility_Code,Bed_Grade,patientid,City_Code_Patient,Type_of_Admission,Severity_of_Illness,Visitors_with_Patient,Age,Admission_Deposit,Stay
+1,207,D,45,X,No,Cardiology,Q,E,3,97317,9,Urgent,Extreme,10,11-20,41124.68,41-50
+2,254,A,37,Z,Yes,Orthopedics,P,A,3,62241,8,Trauma,Extreme,7,61-70,26576.26,21-30
+3,308,F,17,Z,Yes,Neurology,T,E,3,28637,12,Trauma,Moderate,0,31-40,37575.95,0-10
+4,171,E,14,Z,No,Cardiology,S,C,5,53098,44,Trauma,Minor,3,21-30,42798.26,41-50
+5,345,F,50,Z,Yes,General Medicine,Q,B,5,75984,43,Urgent,Extreme,10,21-30,24929.02,21-30
+6,395,B,35,X,No,Neurology,S,D,3,19247,41,Urgent,Moderate,3,11-20,30150.39,41-50
+7,230,G,31,Z,No,Cardiology,P,E,1,16570,38,Emergency,Extreme,6,41-50,23563.13,31-40
+8,283,D,36,Y,Yes,Neurology,T,E,4,57470,38,Trauma,Extreme,10,81-90,8158.18,0-10
+9,358,B,42,X,No,Pediatrics,R,C,3,29379,15,Trauma,Extreme,9,0-10,1035.83,11-20
+10,372,B,25,Z,No,Orthopedics,P,E,5,50298,17,Urgent,Extreme,8,91-100,33240.43,31-40
+11,474,D,48,Y,Yes,Neurology,U,C,1,24421,49,Urgent,Moderate,3,61-70,19861.29,11-20
+12,239,E,7,X,No,Orthopedics,S,D,1,60817,4,Trauma,Extreme,2,31-40,20722.59,21-30
+13,177,E,34,Z,No,Orthopedics,U,D,4,21792,3,Emergency,Moderate,0,71-80,36044.01,0-10
+14,481,F,29,Y,No,Pediatrics,Q,E,1,85799,33,Emergency,Minor,3,21-30,23869.32,21-30
+15,298,B,34,X,No,Neurology,Q,C,5,81148,45,Trauma,Extreme,2,61-70,31867.4,41-50
+16,240,C,24,Z,Yes,General Medicine,P,E,3,56994,33,Trauma,Moderate,6,91-100,2720.86,31-40
+17,418,F,32,X,Yes,Pediatrics,U,E,5,30868,37,Trauma,Minor,4,61-70,1779.4,31-40
+18,102,C,40,Y,Yes,Orthopedics,U,E,1,92907,14,Urgent,Minor,2,11-20,20092.71,41-50
+19,237,B,16,Z,Yes,Cardiology,R,C,3,14722,26,Urgent,Moderate,5,51-60,10690.81,31-40
+20,206,F,47,Z,Yes,Cardiology,R,B,1,12647,48,Trauma,Moderate,10,41-50,13387.93,21-30
+21,351,B,6,Y,Yes,Cardiology,T,E,5,55554,49,Urgent,Extreme,8,51-60,35329.2,0-10
+22,395,G,29,Z,No,Orthopedics,T,C,1,64485,49,Trauma,Minor,9,81-90,36009.78,21-30
+23,196,E,5,Z,No,General Medicine,R,A,3,47266,32,Trauma,Moderate,6,51-60,4404.04,0-10
+24,271,G,18,X,Yes,Orthopedics,S,E,4,22334,8,Urgent,Moderate,10,81-90,13723.72,0-10
+25,257,E,1,Z,No,Neurology,P,C,4,51854,47,Emergency,Moderate,5,31-40,1945.79,21-30
+26,123,B,8,Y,Yes,Pediatrics,R,B,5,72570,18,Emergency,Moderate,5,31-40,8505.17,11-20
+27,296,D,49,Z,No,General Medicine,R,D,3,98895,34,Urgent,Moderate,9,81-90,15446.58,0-10
+28,262,A,8,Z,Yes,Pediatrics,S,A,4,12665,2,Emergency,Minor,6,81-90,12680.79,0-10
+29,449,F,6,Y,No,General Medicine,Q,A,5,14995,26,Urgent,Extreme,2,11-20,39992.84,0-10
+30,486,C,27,Y,Yes,Cardiology,S,C,1,58410,47,Trauma,Moderate,4,81-90,32693.17,31-40
+31,222,F,24,Y,Yes,Orthopedics,U,C,4,99062,19,Urgent,Extreme,0,91-100,24261.12,31-40
+32,370,G,20,Z,Yes,General Medicine,S,E,5,68357,26,Trauma,Extreme,3,0-10,10305.98,11-20
+33,438,F,15,Z,Yes,Pediatrics,U,A,1,58198,6,Urgent,Minor,10,11-20,10753.95,31-40
+34,113,F,41,X,Yes,Cardiology,U,A,5,21492,43,Trauma,Moderate,3,61-70,12692.22,41-50
+35,285,D,34,Z,No,Neurology,R,E,3,86569,34,Emergency,Extreme,4,31-40,6544.82,21-30
+36,466,B,41,X,No,General Medicine,U,B,3,45798,4,Emergency,Moderate,10,41-50,8071.62,11-20
+37,317,E,12,X,No,General Medicine,T,A,3,82543,14,Urgent,Extreme,2,0-10,3886.13,0-10
+38,153,G,4,Z,No,Cardiology,P,D,4,35074,4,Trauma,Minor,3,81-90,41242.2,31-40
+39,383,A,1,Z,No,Orthopedics,P,A,1,50182,31,Emergency,Moderate,2,81-90,34100.26,21-30
+40,297,A,42,X,No,General Medicine,R,E,3,71214,6,Urgent,Extreme,3,0-10,14341.55,0-10
+41,218,B,47,Y,Yes,Neurology,S,E,1,48859,30,Emergency,Extreme,0,11-20,45181.99,41-50
+42,164,D,22,Y,No,Pediatrics,P,A,4,27730,37,Emergency,Extreme,4,21-30,48597.36,21-30
+43,261,C,17,Y,No,Orthopedics,T,B,5,12581,25,Urgent,Moderate,3,51-60,38154.03,0-10
+44,246,B,6,X,Yes,Orthopedics,R,B,5,91771,40,Trauma,Extreme,4,91-100,28373.32,41-50
+45,227,G,46,Z,Yes,General Medicine,P,B,5,95046,28,Urgent,Moderate,4,0-10,2432.07,41-50
+46,102,A,4,Z,No,General Medicine,S,B,4,99718,10,Urgent,Moderate,6,61-70,10679.37,21-30
+47,388,D,14,X,Yes,General Medicine,P,C,1,85448,4,Emergency,Minor,3,41-50,17615.16,0-10
+48,447,G,8,Y,Yes,General Medicine,P,E,2,20533,1,Emergency,Extreme,6,11-20,10201.57,0-10
+49,114,E,46,X,Yes,Orthopedics,S,C,2,25209,36,Trauma,Moderate,2,41-50,42487.35,31-40
+50,485,F,20,Z,Yes,Orthopedics,Q,C,4,55721,5,Trauma,Extreme,5,51-60,12593.99,21-30
+51,185,F,38,X,Yes,Pediatrics,Q,D,3,79664,21,Trauma,Extreme,5,41-50,29415.98,31-40
+52,200,C,24,X,Yes,Cardiology,U,C,2,25468,28,Emergency,Extreme,7,41-50,48651.48,21-30
+53,494,F,28,Z,No,Cardiology,U,E,2,85608,48,Trauma,Minor,9,51-60,39385.85,0-10
+54,448,F,19,Z,No,Neurology,U,A,3,56113,33,Emergency,Extreme,9,0-10,44507.15,0-10
+55,301,B,16,Y,Yes,Cardiology,U,B,3,49506,49,Emergency,Extreme,3,51-60,6093.74,41-50
+56,252,A,19,X,No,General Medicine,R,E,2,18389,43,Urgent,Extreme,4,11-20,36231.56,21-30
+57,226,F,21,Z,No,Cardiology,U,A,5,36502,24,Urgent,Minor,9,31-40,40758.98,21-30
+58,295,G,29,Y,No,Cardiology,Q,C,3,70862,21,Urgent,Moderate,3,41-50,15882.33,0-10
+59,398,F,46,Y,No,Orthopedics,R,E,3,90547,32,Urgent,Moderate,2,71-80,43614.17,21-30
+60,248,F,41,Z,No,Pediatrics,T,D,2,48303,21,Emergency,Minor,4,91-100,6250.72,0-10
+61,234,D,47,Y,Yes,Orthopedics,P,A,3,47379,13,Trauma,Moderate,10,61-70,36249.25,0-10
+62,242,C,33,Y,Yes,Cardiology,U,C,1,49410,28,Urgent,Moderate,0,61-70,15286.94,41-50
+63,381,D,35,Z,Yes,General Medicine,Q,A,2,81567,44,Emergency,Extreme,5,11-20,21079.59,11-20
+64,126,A,20,X,No,Orthopedics,T,E,3,34809,49,Urgent,Minor,2,11-20,43312.33,0-10
+65,431,D,27,Z,No,Orthopedics,P,D,5,27165,11,Urgent,Extreme,10,31-40,1014.15,31-40
+66,107,A,19,X,Yes,Orthopedics,U,B,3,23869,22,Trauma,Extreme,10,41-50,25348.17,21-30
+67,484,E,10,Y,No,Cardiology,T,C,1,57282,33,Trauma,Moderate,7,61-70,10150.71,31-40
+68,126,A,48,Z,Yes,Orthopedics,P,D,2,15807,31,Emergency,Moderate,1,71-80,10917.18,41-50
+69,467,D,26,X,No,Neurology,S,A,2,52757,34,Trauma,Extreme,5,71-80,48388.68,11-20
+70,401,B,1,Z,No,Cardiology,U,A,3,85711,38,Urgent,Minor,9,31-40,45711.35,41-50
+71,257,F,43,Y,No,Orthopedics,T,E,2,89769,9,Urgent,Extreme,7,61-70,14948.5,41-50
+72,206,B,36,X,No,General Medicine,T,A,1,73534,35,Urgent,Minor,8,51-60,12758.8,0-10
+73,408,B,29,X,No,Cardiology,S,E,5,97681,34,Trauma,Extreme,5,0-10,32281.14,31-40
+74,113,B,25,Y,Yes,Cardiology,T,D,2,63429,14,Trauma,Minor,0,51-60,34249.66,41-50
+75,311,C,4,Z,No,Cardiology,U,A,4,36145,4,Emergency,Minor,3,81-90,46661.73,31-40
+76,416,A,15,Y,Yes,Pediatrics,R,B,5,40029,16,Trauma,Extreme,10,51-60,2964.33,31-40
+77,312,G,11,Z,Yes,Neurology,U,A,4,93413,27,Trauma,Moderate,3,0-10,22798.99,41-50
+78,118,C,11,Z,Yes,General Medicine,S,B,4,70897,14,Trauma,Moderate,1,51-60,4737.22,21-30
+79,421,F,48,X,Yes,General Medicine,P,C,3,90490,14,Trauma,Moderate,7,0-10,2119.24,31-40
+80,167,E,37,X,No,Cardiology,R,B,3,75868,30,Urgent,Moderate,6,61-70,7498.42,0-10
+81,416,B,31,Z,No,Neurology,Q,A,1,33878,5,Trauma,Moderate,6,61-70,7875.68,21-30
+82,385,G,8,Y,Yes,Cardiology,R,E,4,78345,50,Urgent,Extreme,9,61-70,26227.02,31-40
+83,428,G,44,Z,Yes,Cardiology,R,E,1,23094,11,Trauma,Extreme,7,41-50,17422.62,31-40
+84,253,C,7,Z,Yes,Cardiology,R,A,1,29048,4,Urgent,Moderate,6,91-100,32379.94,0-10
+85,151,E,44,Y,No,Orthopedics,P,D,5,95219,10,Emergency,Minor,6,31-40,20377.04,0-10
+86,301,F,2,X,Yes,Orthopedics,T,E,3,14929,39,Emergency,Moderate,1,21-30,45177.05,41-50
+87,224,G,10,X,Yes,Neurology,Q,A,4,27657,50,Trauma,Minor,4,91-100,24952.53,0-10
+88,234,F,37,X,Yes,Orthopedics,U,D,4,19643,18,Emergency,Minor,9,21-30,32152.62,41-50
+89,256,A,27,X,Yes,Orthopedics,S,E,2,26317,27,Emergency,Minor,0,21-30,4010.83,0-10
+90,103,E,15,Y,No,Orthopedics,R,D,1,84376,11,Emergency,Moderate,10,61-70,34898.88,0-10
+91,292,A,7,X,No,Orthopedics,Q,A,1,14924,7,Urgent,Extreme,2,0-10,33926.86,31-40
+92,484,F,16,X,Yes,Pediatrics,Q,C,4,30470,44,Urgent,Extreme,8,21-30,29901.26,0-10
+93,337,C,27,Z,Yes,Neurology,R,D,4,55097,24,Urgent,Extreme,10,51-60,39281.98,11-20
+94,381,B,32,Z,Yes,Pediatrics,S,D,1,64473,33,Urgent,Extreme,1,61-70,42849.32,0-10
+95,446,E,26,X,Yes,Neurology,T,E,3,32239,32,Trauma,Extreme,10,81-90,36192.18,11-20
+96,209,F,28,Z,Yes,General Medicine,R,D,1,30638,9,Trauma,Moderate,7,91-100,30334.24,21-30
+97,282,G,46,X,Yes,Orthopedics,R,B,3,43052,11,Urgent,Minor,0,0-10,23586.16,31-40
+98,333,D,23,Z,No,Neurology,S,A,4,16886,47,Trauma,Minor,9,91-100,28184.88,11-20
+99,433,A,45,Y,Yes,Pediatrics,T,D,4,53383,28,Trauma,Extreme,7,61-70,44703.53,0-10
+100,270,G,48,Y,No,Orthopedics,T,A,4,32974,41,Urgent,Moderate,1,71-80,26188.58,41-50
